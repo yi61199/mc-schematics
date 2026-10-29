@@ -1,0 +1,3583 @@
+{
+ "version": 1,
+ "generated": "2026-10-29T13:12:58",
+ "items": [
+  {
+   "id": "ms-001",
+   "title": "FlyingDutchman",
+   "category": "船只",
+   "dims": [
+    206,
+    193,
+    69
+   ],
+   "blocks": 65307,
+   "size": 61562,
+   "preview": "previews/ms-001.png",
+   "file": "schematics/ms-001.schem",
+   "badBlocks": [],
+   "ms": 14594,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-002",
+   "title": "HMSVanguard",
+   "category": "船只",
+   "dims": [
+    94,
+    84,
+    35
+   ],
+   "blocks": 14959,
+   "size": 10705,
+   "preview": "previews/ms-002.png",
+   "file": "schematics/ms-002.schem",
+   "badBlocks": [],
+   "ms": 3324,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-003",
+   "title": "PirateShip",
+   "category": "船只",
+   "dims": [
+    91,
+    71,
+    49
+   ],
+   "blocks": 12027,
+   "size": 10048,
+   "preview": "previews/ms-003.png",
+   "file": "schematics/ms-003.schem",
+   "badBlocks": [],
+   "ms": 3075,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-004",
+   "title": "Brogade drage 2018",
+   "category": "龙",
+   "dims": [
+    128,
+    53,
+    119
+   ],
+   "blocks": 6678,
+   "size": 8328,
+   "preview": "previews/ms-004.png",
+   "file": "schematics/ms-004.schem",
+   "badBlocks": [],
+   "ms": 7498,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-006",
+   "title": "Elven Watch Tower",
+   "category": "精灵建筑",
+   "dims": [
+    7,
+    27,
+    7
+   ],
+   "blocks": 490,
+   "size": 968,
+   "preview": "previews/ms-006.png",
+   "file": "schematics/ms-006.schem",
+   "badBlocks": [],
+   "ms": 88,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-007",
+   "title": "Elvish Ship",
+   "category": "精灵建筑",
+   "dims": [
+    32,
+    28,
+    9
+   ],
+   "blocks": 1425,
+   "size": 1071,
+   "preview": "previews/ms-007.png",
+   "file": "schematics/ms-007.schem",
+   "badBlocks": [],
+   "ms": 170,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-008",
+   "title": "Elvish Watch Tower",
+   "category": "精灵建筑",
+   "dims": [
+    11,
+    24,
+    11
+   ],
+   "blocks": 658,
+   "size": 979,
+   "preview": "previews/ms-008.png",
+   "file": "schematics/ms-008.schem",
+   "badBlocks": [],
+   "ms": 117,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-009",
+   "title": "Comet Observatory bridge",
+   "category": "大型建筑",
+   "dims": [
+    54,
+    4,
+    10
+   ],
+   "blocks": 1252,
+   "size": 487,
+   "preview": "previews/ms-009.png",
+   "file": "schematics/ms-009.schem",
+   "badBlocks": [],
+   "ms": 126,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-010",
+   "title": "Comet Observatory",
+   "category": "大型建筑",
+   "dims": [
+    153,
+    149,
+    152
+   ],
+   "blocks": 38453,
+   "size": 23451,
+   "preview": "previews/ms-010.png",
+   "file": "schematics/ms-010.schem",
+   "badBlocks": [],
+   "ms": 24193,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-013",
+   "title": "ForeverBase1",
+   "category": "大型建筑",
+   "dims": [
+    63,
+    24,
+    58
+   ],
+   "blocks": 7967,
+   "size": 5370,
+   "preview": "previews/ms-013.png",
+   "file": "schematics/ms-013.schem",
+   "badBlocks": [
+    "crafter",
+    "iron_chain",
+    "mangrove_shelf",
+    "oxidized_copper_bulb",
+    "oxidized_copper_trapdoor",
+    "pale_moss_carpet",
+    "pale_oak_wood",
+    "resin_block",
+    "tuff_bricks",
+    "waxed_copper_bulb"
+   ],
+   "ms": 596,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-014",
+   "title": "Hobbit Hole 1",
+   "category": "大型建筑",
+   "dims": [
+    37,
+    10,
+    25
+   ],
+   "blocks": 5359,
+   "size": 2707,
+   "preview": "previews/ms-014.png",
+   "file": "schematics/ms-014.schem",
+   "badBlocks": [],
+   "ms": 161,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-015",
+   "title": "Hobbit Hole Interior 1",
+   "category": "大型建筑",
+   "dims": [
+    28,
+    7,
+    23
+   ],
+   "blocks": 1299,
+   "size": 1422,
+   "preview": "previews/ms-015.png",
+   "file": "schematics/ms-015.schem",
+   "badBlocks": [],
+   "ms": 191,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-016",
+   "title": "MysticalArtsAndSnacks",
+   "category": "大型建筑",
+   "dims": [
+    8,
+    7,
+    11
+   ],
+   "blocks": 439,
+   "size": 573,
+   "preview": "previews/ms-016.png",
+   "file": "schematics/ms-016.schem",
+   "badBlocks": [],
+   "ms": 62,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-017",
+   "title": "Pride Perimeter ",
+   "category": "大型建筑",
+   "dims": [
+    85,
+    5,
+    85
+   ],
+   "blocks": 7934,
+   "size": 763,
+   "preview": "previews/ms-017.png",
+   "file": "schematics/ms-017.schem",
+   "badBlocks": [],
+   "ms": 657,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-018",
+   "title": "SmokeTree",
+   "category": "大型建筑",
+   "dims": [
+    29,
+    35,
+    34
+   ],
+   "blocks": 4337,
+   "size": 3424,
+   "preview": "previews/ms-018.png",
+   "file": "schematics/ms-018.schem",
+   "badBlocks": [
+    "short_grass"
+   ],
+   "ms": 471,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-019",
+   "title": "Bee Statue",
+   "category": "雕像",
+   "dims": [
+    17,
+    9,
+    14
+   ],
+   "blocks": 333,
+   "size": 376,
+   "preview": "previews/ms-019.png",
+   "file": "schematics/ms-019.schem",
+   "badBlocks": [],
+   "ms": 70,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-020",
+   "title": "BeeNest",
+   "category": "雕像",
+   "dims": [
+    22,
+    21,
+    25
+   ],
+   "blocks": 3926,
+   "size": 1951,
+   "preview": "previews/ms-020.png",
+   "file": "schematics/ms-020.schem",
+   "badBlocks": [
+    "short_grass"
+   ],
+   "ms": 462,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-021",
+   "title": "Flaming Stone Tower",
+   "category": "中世纪",
+   "dims": [
+    12,
+    28,
+    12
+   ],
+   "blocks": 1561,
+   "size": 1596,
+   "preview": "previews/ms-021.png",
+   "file": "schematics/ms-021.schem",
+   "badBlocks": [],
+   "ms": 122,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-022",
+   "title": "MedievalTower",
+   "category": "中世纪",
+   "dims": [
+    13,
+    28,
+    16
+   ],
+   "blocks": 873,
+   "size": 1118,
+   "preview": "previews/ms-022.png",
+   "file": "schematics/ms-022.schem",
+   "badBlocks": [],
+   "ms": 64,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-023",
+   "title": "Wood Mine Crane",
+   "category": "中世纪",
+   "dims": [
+    17,
+    32,
+    18
+   ],
+   "blocks": 965,
+   "size": 1383,
+   "preview": "previews/ms-023.png",
+   "file": "schematics/ms-023.schem",
+   "badBlocks": [],
+   "ms": 108,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-024",
+   "title": "GhastStable",
+   "category": "杂项",
+   "dims": [
+    21,
+    12,
+    10
+   ],
+   "blocks": 860,
+   "size": 988,
+   "preview": "previews/ms-024.png",
+   "file": "schematics/ms-024.schem",
+   "badBlocks": [
+    "pale_oak_slab",
+    "pale_oak_stairs",
+    "pale_oak_trapdoor",
+    "polished_tuff_stairs",
+    "polished_tuff_wall"
+   ],
+   "ms": 108,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-025",
+   "title": "GhastStableMarket",
+   "category": "杂项",
+   "dims": [
+    35,
+    12,
+    10
+   ],
+   "blocks": 1218,
+   "size": 1307,
+   "preview": "previews/ms-025.png",
+   "file": "schematics/ms-025.schem",
+   "badBlocks": [
+    "pale_oak_slab",
+    "pale_oak_stairs",
+    "pale_oak_trapdoor",
+    "polished_tuff_stairs",
+    "polished_tuff_wall",
+    "short_grass",
+    "waxed_copper_bulb"
+   ],
+   "ms": 170,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-026",
+   "title": "GhastStableSingle",
+   "category": "杂项",
+   "dims": [
+    13,
+    12,
+    10
+   ],
+   "blocks": 531,
+   "size": 841,
+   "preview": "previews/ms-026.png",
+   "file": "schematics/ms-026.schem",
+   "badBlocks": [
+    "pale_oak_slab",
+    "pale_oak_stairs",
+    "pale_oak_trapdoor",
+    "polished_tuff_stairs",
+    "polished_tuff_wall"
+   ],
+   "ms": 112,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-027",
+   "title": "GothTower",
+   "category": "杂项",
+   "dims": [
+    30,
+    46,
+    37
+   ],
+   "blocks": 3313,
+   "size": 2701,
+   "preview": "previews/ms-027.png",
+   "file": "schematics/ms-027.schem",
+   "badBlocks": [
+    "minecraft/enchanting_table"
+   ],
+   "ms": 765,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-028",
+   "title": "GothTowerNether",
+   "category": "杂项",
+   "dims": [
+    11,
+    28,
+    11
+   ],
+   "blocks": 1499,
+   "size": 1332,
+   "preview": "previews/ms-028.png",
+   "file": "schematics/ms-028.schem",
+   "badBlocks": [
+    "pale_oak_door"
+   ],
+   "ms": 133,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-029",
+   "title": "HangingPortalTowers",
+   "category": "杂项",
+   "dims": [
+    20,
+    58,
+    36
+   ],
+   "blocks": 4872,
+   "size": 3857,
+   "preview": "previews/ms-029.png",
+   "file": "schematics/ms-029.schem",
+   "badBlocks": [
+    "firefly_bush",
+    "iron_chain",
+    "pale_hanging_moss",
+    "short_grass",
+    "tuff_slab",
+    "tuff_stairs"
+   ],
+   "ms": 560,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-030",
+   "title": "HotAirBalloon",
+   "category": "杂项",
+   "dims": [
+    33,
+    49,
+    33
+   ],
+   "blocks": 4722,
+   "size": 3655,
+   "preview": "previews/ms-030.png",
+   "file": "schematics/ms-030.schem",
+   "badBlocks": [],
+   "ms": 648,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-031",
+   "title": "LittlePlantStorage",
+   "category": "杂项",
+   "dims": [
+    8,
+    12,
+    7
+   ],
+   "blocks": 328,
+   "size": 672,
+   "preview": "previews/ms-031.png",
+   "file": "schematics/ms-031.schem",
+   "badBlocks": [],
+   "ms": 62,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-032",
+   "title": "tractor",
+   "category": "杂项",
+   "dims": [
+    41,
+    15,
+    18
+   ],
+   "blocks": 2750,
+   "size": 962,
+   "preview": "previews/ms-032.png",
+   "file": "schematics/ms-032.schem",
+   "badBlocks": [],
+   "ms": 199,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-033",
+   "title": "DarkOakPortal",
+   "category": "传送门",
+   "dims": [
+    7,
+    9,
+    3
+   ],
+   "blocks": 96,
+   "size": 395,
+   "preview": "previews/ms-033.png",
+   "file": "schematics/ms-033.schem",
+   "badBlocks": [],
+   "ms": 37,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-034",
+   "title": "NetherPortalIsland",
+   "category": "传送门",
+   "dims": [
+    10,
+    4,
+    10
+   ],
+   "blocks": 122,
+   "size": 384,
+   "preview": "previews/ms-034.png",
+   "file": "schematics/ms-034.schem",
+   "badBlocks": [],
+   "ms": 40,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-035",
+   "title": "Acclamator 2 Class Imperial",
+   "category": "星球大战",
+   "dims": [
+    46,
+    18,
+    75
+   ],
+   "blocks": 14144,
+   "size": 1852,
+   "preview": "previews/ms-035.png",
+   "file": "schematics/ms-035.schem",
+   "badBlocks": [],
+   "ms": 1648,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-036",
+   "title": "Acclamator 2 Class",
+   "category": "星球大战",
+   "dims": [
+    46,
+    18,
+    75
+   ],
+   "blocks": 14144,
+   "size": 1946,
+   "preview": "previews/ms-036.png",
+   "file": "schematics/ms-036.schem",
+   "badBlocks": [],
+   "ms": 674,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-037",
+   "title": "Acclamator Assault Variation",
+   "category": "星球大战",
+   "dims": [
+    46,
+    18,
+    73
+   ],
+   "blocks": 12430,
+   "size": 1771,
+   "preview": "previews/ms-037.png",
+   "file": "schematics/ms-037.schem",
+   "badBlocks": [],
+   "ms": 579,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-038",
+   "title": "Acclamator Class Assault Ship Republic",
+   "category": "星球大战",
+   "dims": [
+    46,
+    18,
+    75
+   ],
+   "blocks": 14152,
+   "size": 2030,
+   "preview": "previews/ms-038.png",
+   "file": "schematics/ms-038.schem",
+   "badBlocks": [],
+   "ms": 647,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-039",
+   "title": "Arquitens Light Crusier Imperial",
+   "category": "星球大战",
+   "dims": [
+    13,
+    6,
+    30
+   ],
+   "blocks": 543,
+   "size": 505,
+   "preview": "previews/ms-039.png",
+   "file": "schematics/ms-039.schem",
+   "badBlocks": [],
+   "ms": 73,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-040",
+   "title": "Arquitens Light Crusier Republic",
+   "category": "星球大战",
+   "dims": [
+    13,
+    6,
+    30
+   ],
+   "blocks": 551,
+   "size": 539,
+   "preview": "previews/ms-040.png",
+   "file": "schematics/ms-040.schem",
+   "badBlocks": [],
+   "ms": 70,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-043",
+   "title": "Carrak Class Light Crusier",
+   "category": "星球大战",
+   "dims": [
+    6,
+    9,
+    35
+   ],
+   "blocks": 1066,
+   "size": 467,
+   "preview": "previews/ms-043.png",
+   "file": "schematics/ms-043.schem",
+   "badBlocks": [],
+   "ms": 91,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-044",
+   "title": "Charger C70 Corvette",
+   "category": "星球大战",
+   "dims": [
+    9,
+    3,
+    13
+   ],
+   "blocks": 106,
+   "size": 360,
+   "preview": "previews/ms-044.png",
+   "file": "schematics/ms-044.schem",
+   "badBlocks": [],
+   "ms": 49,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-045",
+   "title": "Dreadnought Crusier Republic Juditionary",
+   "category": "星球大战",
+   "dims": [
+    13,
+    14,
+    61
+   ],
+   "blocks": 4765,
+   "size": 1272,
+   "preview": "previews/ms-045.png",
+   "file": "schematics/ms-045.schem",
+   "badBlocks": [],
+   "ms": 162,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-046",
+   "title": "Dreadnought Crusier Republic",
+   "category": "星球大战",
+   "dims": [
+    13,
+    14,
+    61
+   ],
+   "blocks": 4765,
+   "size": 1485,
+   "preview": "previews/ms-046.png",
+   "file": "schematics/ms-046.schem",
+   "badBlocks": [],
+   "ms": 200,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-047",
+   "title": "Dreadnought Crusier",
+   "category": "星球大战",
+   "dims": [
+    13,
+    14,
+    61
+   ],
+   "blocks": 4765,
+   "size": 1382,
+   "preview": "previews/ms-047.png",
+   "file": "schematics/ms-047.schem",
+   "badBlocks": [],
+   "ms": 174,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-048",
+   "title": "GAR CR90",
+   "category": "星球大战",
+   "dims": [
+    5,
+    3,
+    15
+   ],
+   "blocks": 118,
+   "size": 323,
+   "preview": "previews/ms-048.png",
+   "file": "schematics/ms-048.schem",
+   "badBlocks": [],
+   "ms": 41,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-049",
+   "title": "GAR Carrack Cruiser",
+   "category": "星球大战",
+   "dims": [
+    6,
+    9,
+    35
+   ],
+   "blocks": 1066,
+   "size": 496,
+   "preview": "previews/ms-049.png",
+   "file": "schematics/ms-049.schem",
+   "badBlocks": [],
+   "ms": 91,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-050",
+   "title": "GAR Charger C70 Corvette",
+   "category": "星球大战",
+   "dims": [
+    9,
+    3,
+    13
+   ],
+   "blocks": 106,
+   "size": 381,
+   "preview": "previews/ms-050.png",
+   "file": "schematics/ms-050.schem",
+   "badBlocks": [],
+   "ms": 43,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-051",
+   "title": "GAR DP20",
+   "category": "星球大战",
+   "dims": [
+    5,
+    3,
+    13
+   ],
+   "blocks": 89,
+   "size": 333,
+   "preview": "previews/ms-051.png",
+   "file": "schematics/ms-051.schem",
+   "badBlocks": [],
+   "ms": 35,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-052",
+   "title": "GAR Dreadnought Carrier",
+   "category": "星球大战",
+   "dims": [
+    13,
+    14,
+    61
+   ],
+   "blocks": 4748,
+   "size": 1407,
+   "preview": "previews/ms-052.png",
+   "file": "schematics/ms-052.schem",
+   "badBlocks": [],
+   "ms": 209,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-053",
+   "title": "GAR Dreadnought Heavy Cruiser",
+   "category": "星球大战",
+   "dims": [
+    13,
+    14,
+    61
+   ],
+   "blocks": 4787,
+   "size": 1404,
+   "preview": "previews/ms-053.png",
+   "file": "schematics/ms-053.schem",
+   "badBlocks": [],
+   "ms": 186,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-054",
+   "title": "GAR Imperator Class Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    90,
+    48,
+    160
+   ],
+   "blocks": 37417,
+   "size": 20477,
+   "preview": "previews/ms-054.png",
+   "file": "schematics/ms-054.schem",
+   "badBlocks": [],
+   "ms": 5524,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-057",
+   "title": "GAR Secutor Class Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    187,
+    37,
+    221
+   ],
+   "blocks": 229199,
+   "size": 19711,
+   "preview": "previews/ms-057.png",
+   "file": "schematics/ms-057.schem",
+   "badBlocks": [],
+   "ms": 13331,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-058",
+   "title": "GAR Tector Class Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    91,
+    48,
+    160
+   ],
+   "blocks": 37852,
+   "size": 19539,
+   "preview": "previews/ms-058.png",
+   "file": "schematics/ms-058.schem",
+   "badBlocks": [],
+   "ms": 7191,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-059",
+   "title": "GAR Victory 1 Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    59,
+    32,
+    86
+   ],
+   "blocks": 18496,
+   "size": 4616,
+   "preview": "previews/ms-059.png",
+   "file": "schematics/ms-059.schem",
+   "badBlocks": [],
+   "ms": 1716,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-060",
+   "title": "GAR Victory 2 Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    58,
+    32,
+    86
+   ],
+   "blocks": 18563,
+   "size": 4528,
+   "preview": "previews/ms-060.png",
+   "file": "schematics/ms-060.schem",
+   "badBlocks": [],
+   "ms": 1533,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-061",
+   "title": "Galactic Empire Emblem",
+   "category": "星球大战",
+   "dims": [
+    99,
+    1,
+    99
+   ],
+   "blocks": 7705,
+   "size": 732,
+   "preview": "previews/ms-061.png",
+   "file": "schematics/ms-061.schem",
+   "badBlocks": [],
+   "ms": 550,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-062",
+   "title": "Gladiator Class Star Destroyer Republic",
+   "category": "星球大战",
+   "dims": [
+    39,
+    15,
+    61
+   ],
+   "blocks": 8114,
+   "size": 1603,
+   "preview": "previews/ms-062.png",
+   "file": "schematics/ms-062.schem",
+   "badBlocks": [],
+   "ms": 424,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-063",
+   "title": "Gladiator Class Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    39,
+    15,
+    61
+   ],
+   "blocks": 8114,
+   "size": 1480,
+   "preview": "previews/ms-063.png",
+   "file": "schematics/ms-063.schem",
+   "badBlocks": [],
+   "ms": 418,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-064",
+   "title": "Imperial 1 Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    91,
+    48,
+    160
+   ],
+   "blocks": 37367,
+   "size": 19431,
+   "preview": "previews/ms-064.png",
+   "file": "schematics/ms-064.schem",
+   "badBlocks": [],
+   "ms": 7634,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-065",
+   "title": "Imperial Nebulon B Frigate",
+   "category": "星球大战",
+   "dims": [
+    7,
+    18,
+    30
+   ],
+   "blocks": 912,
+   "size": 661,
+   "preview": "previews/ms-065.png",
+   "file": "schematics/ms-065.schem",
+   "badBlocks": [],
+   "ms": 116,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-066",
+   "title": "Imperial Venator Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    53,
+    26,
+    114
+   ],
+   "blocks": 16032,
+   "size": 5752,
+   "preview": "previews/ms-066.png",
+   "file": "schematics/ms-066.schem",
+   "badBlocks": [],
+   "ms": 2354,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-067",
+   "title": "Lancer Frigate Imperial",
+   "category": "星球大战",
+   "dims": [
+    7,
+    8,
+    25
+   ],
+   "blocks": 442,
+   "size": 550,
+   "preview": "previews/ms-067.png",
+   "file": "schematics/ms-067.schem",
+   "badBlocks": [],
+   "ms": 85,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-068",
+   "title": "Maelstrom Class Battlecruiser Republic",
+   "category": "星球大战",
+   "dims": [
+    154,
+    47,
+    262
+   ],
+   "blocks": 362493,
+   "size": 15950,
+   "preview": "previews/ms-068.png",
+   "file": "schematics/ms-068.schem",
+   "badBlocks": [],
+   "ms": 16644,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-071",
+   "title": "Poe X-Wing Small",
+   "category": "星球大战",
+   "dims": [
+    12,
+    7,
+    19
+   ],
+   "blocks": 145,
+   "size": 447,
+   "preview": "previews/ms-071.png",
+   "file": "schematics/ms-071.schem",
+   "badBlocks": [
+    "minecraft/dark_oak_fence",
+    "terracotta_medium_pot"
+   ],
+   "ms": 108,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-075",
+   "title": "Procursator Class Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    67,
+    26,
+    121
+   ],
+   "blocks": 30231,
+   "size": 5881,
+   "preview": "previews/ms-075.png",
+   "file": "schematics/ms-075.schem",
+   "badBlocks": [],
+   "ms": 1737,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-076",
+   "title": "Quazar Fire Bulk Carrier",
+   "category": "星球大战",
+   "dims": [
+    24,
+    6,
+    33
+   ],
+   "blocks": 1672,
+   "size": 723,
+   "preview": "previews/ms-076.png",
+   "file": "schematics/ms-076.schem",
+   "badBlocks": [],
+   "ms": 120,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-077",
+   "title": "Roundel of the Galactic Republic",
+   "category": "星球大战",
+   "dims": [
+    99,
+    1,
+    99
+   ],
+   "blocks": 7705,
+   "size": 747,
+   "preview": "previews/ms-077.png",
+   "file": "schematics/ms-077.schem",
+   "badBlocks": [],
+   "ms": 346,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-078",
+   "title": "Secutor Class Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    187,
+    37,
+    221
+   ],
+   "blocks": 229199,
+   "size": 19486,
+   "preview": "previews/ms-078.png",
+   "file": "schematics/ms-078.schem",
+   "badBlocks": [],
+   "ms": 12668,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-079",
+   "title": "Strike Class Medium Crusier Camo",
+   "category": "星球大战",
+   "dims": [
+    9,
+    10,
+    45
+   ],
+   "blocks": 1672,
+   "size": 917,
+   "preview": "previews/ms-079.png",
+   "file": "schematics/ms-079.schem",
+   "badBlocks": [],
+   "ms": 137,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-080",
+   "title": "Strike Class Medium Crusier Imperial",
+   "category": "星球大战",
+   "dims": [
+    9,
+    10,
+    45
+   ],
+   "blocks": 1672,
+   "size": 679,
+   "preview": "previews/ms-080.png",
+   "file": "schematics/ms-080.schem",
+   "badBlocks": [],
+   "ms": 116,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-082",
+   "title": "TIE-Fighter Small",
+   "category": "星球大战",
+   "dims": [
+    13,
+    11,
+    11
+   ],
+   "blocks": 193,
+   "size": 537,
+   "preview": "previews/ms-082.png",
+   "file": "schematics/ms-082.schem",
+   "badBlocks": [],
+   "ms": 82,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-083",
+   "title": "Tector Class Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    91,
+    48,
+    160
+   ],
+   "blocks": 37852,
+   "size": 19370,
+   "preview": "previews/ms-083.png",
+   "file": "schematics/ms-083.schem",
+   "badBlocks": [],
+   "ms": 7170,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-084",
+   "title": "Thrawns Star Destroyer Chimera",
+   "category": "星球大战",
+   "dims": [
+    91,
+    48,
+    160
+   ],
+   "blocks": 37362,
+   "size": 20764,
+   "preview": "previews/ms-084.png",
+   "file": "schematics/ms-084.schem",
+   "badBlocks": [],
+   "ms": 4441,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-085",
+   "title": "Victory 1 Star Destroyer Crimson Command",
+   "category": "星球大战",
+   "dims": [
+    59,
+    32,
+    86
+   ],
+   "blocks": 18584,
+   "size": 4405,
+   "preview": "previews/ms-085.png",
+   "file": "schematics/ms-085.schem",
+   "badBlocks": [],
+   "ms": 1215,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-086",
+   "title": "Victory 1 Star Destroyer Republic",
+   "category": "星球大战",
+   "dims": [
+    59,
+    32,
+    86
+   ],
+   "blocks": 18589,
+   "size": 4700,
+   "preview": "previews/ms-086.png",
+   "file": "schematics/ms-086.schem",
+   "badBlocks": [],
+   "ms": 1513,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-087",
+   "title": "Victory 1 Star Destroyer",
+   "category": "星球大战",
+   "dims": [
+    59,
+    32,
+    86
+   ],
+   "blocks": 18495,
+   "size": 4462,
+   "preview": "previews/ms-087.png",
+   "file": "schematics/ms-087.schem",
+   "badBlocks": [],
+   "ms": 1561,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-088",
+   "title": "Victory 2 Class Frigate Imperial",
+   "category": "星球大战",
+   "dims": [
+    21,
+    6,
+    37
+   ],
+   "blocks": 510,
+   "size": 515,
+   "preview": "previews/ms-088.png",
+   "file": "schematics/ms-088.schem",
+   "badBlocks": [],
+   "ms": 95,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-089",
+   "title": "Victory 2 Class Frigate Republic",
+   "category": "星球大战",
+   "dims": [
+    21,
+    6,
+    37
+   ],
+   "blocks": 510,
+   "size": 552,
+   "preview": "previews/ms-089.png",
+   "file": "schematics/ms-089.schem",
+   "badBlocks": [],
+   "ms": 95,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-090",
+   "title": "X-Wing Small",
+   "category": "星球大战",
+   "dims": [
+    13,
+    7,
+    19
+   ],
+   "blocks": 160,
+   "size": 477,
+   "preview": "previews/ms-090.png",
+   "file": "schematics/ms-090.schem",
+   "badBlocks": [
+    "blue_glazed_thick_pot",
+    "minecraft/oak_fence"
+   ],
+   "ms": 95,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-091",
+   "title": "enforcer class support ship",
+   "category": "星球大战",
+   "dims": [
+    29,
+    11,
+    60
+   ],
+   "blocks": 3430,
+   "size": 1084,
+   "preview": "previews/ms-091.png",
+   "file": "schematics/ms-091.schem",
+   "badBlocks": [],
+   "ms": 284,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-092",
+   "title": "imperial-ii-sd-1512509080",
+   "category": "星球大战",
+   "dims": [
+    91,
+    46,
+    160
+   ],
+   "blocks": 37226,
+   "size": 19224,
+   "preview": "previews/ms-092.png",
+   "file": "schematics/ms-092.schem",
+   "badBlocks": [],
+   "ms": 5576,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-093",
+   "title": "intridictor class",
+   "category": "星球大战",
+   "dims": [
+    29,
+    12,
+    60
+   ],
+   "blocks": 3739,
+   "size": 1279,
+   "preview": "previews/ms-093.png",
+   "file": "schematics/ms-093.schem",
+   "badBlocks": [],
+   "ms": 266,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-094",
+   "title": "venator-class-2019-1555350207",
+   "category": "星球大战",
+   "dims": [
+    53,
+    26,
+    114
+   ],
+   "blocks": 16032,
+   "size": 5953,
+   "preview": "previews/ms-094.png",
+   "file": "schematics/ms-094.schem",
+   "badBlocks": [],
+   "ms": 1487,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-095",
+   "title": "DoubleTrack",
+   "category": "火车",
+   "dims": [
+    5,
+    1,
+    84
+   ],
+   "blocks": 294,
+   "size": 237,
+   "preview": "previews/ms-095.png",
+   "file": "schematics/ms-095.schem",
+   "badBlocks": [],
+   "ms": 54,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-096",
+   "title": "EMC E1A ATSF",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    30
+   ],
+   "blocks": 689,
+   "size": 836,
+   "preview": "previews/ms-096.png",
+   "file": "schematics/ms-096.schem",
+   "badBlocks": [],
+   "ms": 112,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-097",
+   "title": "EMC E1B ATSF",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    30
+   ],
+   "blocks": 726,
+   "size": 655,
+   "preview": "previews/ms-097.png",
+   "file": "schematics/ms-097.schem",
+   "badBlocks": [],
+   "ms": 102,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-098",
+   "title": "EMC E2A UP",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 780,
+   "size": 919,
+   "preview": "previews/ms-098.png",
+   "file": "schematics/ms-098.schem",
+   "badBlocks": [],
+   "ms": 104,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-099",
+   "title": "EMC E2B UP",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    30
+   ],
+   "blocks": 747,
+   "size": 713,
+   "preview": "previews/ms-099.png",
+   "file": "schematics/ms-099.schem",
+   "badBlocks": [],
+   "ms": 101,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-100",
+   "title": "EMC E3A ACL",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 738,
+   "size": 861,
+   "preview": "previews/ms-100.png",
+   "file": "schematics/ms-100.schem",
+   "badBlocks": [],
+   "ms": 111,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-101",
+   "title": "EMC E3A ATSF",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 746,
+   "size": 907,
+   "preview": "previews/ms-101.png",
+   "file": "schematics/ms-101.schem",
+   "badBlocks": [],
+   "ms": 116,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-102",
+   "title": "EMC E3A CRIP 1",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 740,
+   "size": 897,
+   "preview": "previews/ms-102.png",
+   "file": "schematics/ms-102.schem",
+   "badBlocks": [],
+   "ms": 100,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-103",
+   "title": "EMC E3A CRIP 2",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 740,
+   "size": 837,
+   "preview": "previews/ms-103.png",
+   "file": "schematics/ms-103.schem",
+   "badBlocks": [],
+   "ms": 120,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-104",
+   "title": "EMC E3A FEC",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 725,
+   "size": 896,
+   "preview": "previews/ms-104.png",
+   "file": "schematics/ms-104.schem",
+   "badBlocks": [],
+   "ms": 100,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-105",
+   "title": "EMC E3A KCS 1",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 722,
+   "size": 878,
+   "preview": "previews/ms-105.png",
+   "file": "schematics/ms-105.schem",
+   "badBlocks": [],
+   "ms": 48,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-106",
+   "title": "EMC E3A KCS 2",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 725,
+   "size": 857,
+   "preview": "previews/ms-106.png",
+   "file": "schematics/ms-106.schem",
+   "badBlocks": [],
+   "ms": 37,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-107",
+   "title": "EMC E3A MP",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 737,
+   "size": 822,
+   "preview": "previews/ms-107.png",
+   "file": "schematics/ms-107.schem",
+   "badBlocks": [],
+   "ms": 58,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-108",
+   "title": "EMC E3A UP",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 769,
+   "size": 917,
+   "preview": "previews/ms-108.png",
+   "file": "schematics/ms-108.schem",
+   "badBlocks": [],
+   "ms": 95,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-109",
+   "title": "EMC E3B ATSF",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    30
+   ],
+   "blocks": 732,
+   "size": 673,
+   "preview": "previews/ms-109.png",
+   "file": "schematics/ms-109.schem",
+   "badBlocks": [],
+   "ms": 66,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-110",
+   "title": "EMC E3B UP",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    30
+   ],
+   "blocks": 744,
+   "size": 712,
+   "preview": "previews/ms-110.png",
+   "file": "schematics/ms-110.schem",
+   "badBlocks": [],
+   "ms": 87,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-111",
+   "title": "EMC E4A SAL 1",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 724,
+   "size": 864,
+   "preview": "previews/ms-111.png",
+   "file": "schematics/ms-111.schem",
+   "badBlocks": [],
+   "ms": 100,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-112",
+   "title": "EMC E4A SAL 2",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 721,
+   "size": 845,
+   "preview": "previews/ms-112.png",
+   "file": "schematics/ms-112.schem",
+   "badBlocks": [],
+   "ms": 107,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-113",
+   "title": "EMC E4B SAL 1",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    30
+   ],
+   "blocks": 699,
+   "size": 709,
+   "preview": "previews/ms-113.png",
+   "file": "schematics/ms-113.schem",
+   "badBlocks": [],
+   "ms": 87,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-114",
+   "title": "EMC E4B SAL 2",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    30
+   ],
+   "blocks": 699,
+   "size": 663,
+   "preview": "previews/ms-114.png",
+   "file": "schematics/ms-114.schem",
+   "badBlocks": [],
+   "ms": 91,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-115",
+   "title": "EMC E5A CBQ",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 754,
+   "size": 836,
+   "preview": "previews/ms-115.png",
+   "file": "schematics/ms-115.schem",
+   "badBlocks": [],
+   "ms": 125,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-116",
+   "title": "EMC E5B CBQ",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    30
+   ],
+   "blocks": 729,
+   "size": 669,
+   "preview": "previews/ms-116.png",
+   "file": "schematics/ms-116.schem",
+   "badBlocks": [],
+   "ms": 99,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-117",
+   "title": "EMC EA BO",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    32
+   ],
+   "blocks": 743,
+   "size": 829,
+   "preview": "previews/ms-117.png",
+   "file": "schematics/ms-117.schem",
+   "badBlocks": [],
+   "ms": 108,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-118",
+   "title": "EMC EB BO",
+   "category": "火车",
+   "dims": [
+    7,
+    7,
+    30
+   ],
+   "blocks": 730,
+   "size": 693,
+   "preview": "previews/ms-118.png",
+   "file": "schematics/ms-118.schem",
+   "badBlocks": [],
+   "ms": 104,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-119",
+   "title": "ScarTrain",
+   "category": "火车",
+   "dims": [
+    82,
+    40,
+    29
+   ],
+   "blocks": 3454,
+   "size": 4243,
+   "preview": "previews/ms-119.png",
+   "file": "schematics/ms-119.schem",
+   "badBlocks": [
+    "crafter",
+    "iron_chain",
+    "pale_moss_carpet",
+    "polished_tuff_stairs",
+    "polished_tuff_wall",
+    "waxed_exposed_copper_bulb",
+    "waxed_exposed_copper_trapdoor"
+   ],
+   "ms": 1138,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-120",
+   "title": "Track",
+   "category": "火车",
+   "dims": [
+    5,
+    1,
+    42
+   ],
+   "blocks": 147,
+   "size": 229,
+   "preview": "previews/ms-120.png",
+   "file": "schematics/ms-120.schem",
+   "badBlocks": [],
+   "ms": 42,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-121",
+   "title": "Trestle1Section",
+   "category": "火车",
+   "dims": [
+    13,
+    8,
+    5
+   ],
+   "blocks": 229,
+   "size": 329,
+   "preview": "previews/ms-121.png",
+   "file": "schematics/ms-121.schem",
+   "badBlocks": [],
+   "ms": 57,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-122",
+   "title": "Trestle3Section",
+   "category": "火车",
+   "dims": [
+    37,
+    8,
+    5
+   ],
+   "blocks": 645,
+   "size": 354,
+   "preview": "previews/ms-122.png",
+   "file": "schematics/ms-122.schem",
+   "badBlocks": [],
+   "ms": 79,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-123",
+   "title": "UP_Big_Boy",
+   "category": "火车",
+   "dims": [
+    63,
+    9,
+    7
+   ],
+   "blocks": 1991,
+   "size": 1520,
+   "preview": "previews/ms-123.png",
+   "file": "schematics/ms-123.schem",
+   "badBlocks": [],
+   "ms": 195,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-124",
+   "title": "prr520",
+   "category": "火车",
+   "dims": [
+    9,
+    12,
+    73
+   ],
+   "blocks": 3284,
+   "size": 1995,
+   "preview": "previews/ms-124.png",
+   "file": "schematics/ms-124.schem",
+   "badBlocks": [
+    "iron_chain"
+   ],
+   "ms": 287,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-125",
+   "title": "train",
+   "category": "火车",
+   "dims": [
+    102,
+    21,
+    21
+   ],
+   "blocks": 4862,
+   "size": 1246,
+   "preview": "previews/ms-125.png",
+   "file": "schematics/ms-125.schem",
+   "badBlocks": [],
+   "ms": 592,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-126",
+   "title": "AcaciaTree",
+   "category": "树木",
+   "dims": [
+    7,
+    17,
+    6
+   ],
+   "blocks": 102,
+   "size": 466,
+   "preview": "previews/ms-126.png",
+   "file": "schematics/ms-126.schem",
+   "badBlocks": [
+    "tuff_wall"
+   ],
+   "ms": 45,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-127",
+   "title": "AcaciaTreeMedium",
+   "category": "树木",
+   "dims": [
+    7,
+    23,
+    6
+   ],
+   "blocks": 146,
+   "size": 506,
+   "preview": "previews/ms-127.png",
+   "file": "schematics/ms-127.schem",
+   "badBlocks": [
+    "tuff_wall"
+   ],
+   "ms": 53,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-128",
+   "title": "AcaciaTreeTall",
+   "category": "树木",
+   "dims": [
+    6,
+    28,
+    6
+   ],
+   "blocks": 166,
+   "size": 545,
+   "preview": "previews/ms-128.png",
+   "file": "schematics/ms-128.schem",
+   "badBlocks": [
+    "tuff_wall"
+   ],
+   "ms": 50,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-129",
+   "title": "AzaleaTree1",
+   "category": "树木",
+   "dims": [
+    22,
+    16,
+    25
+   ],
+   "blocks": 1348,
+   "size": 949,
+   "preview": "previews/ms-129.png",
+   "file": "schematics/ms-129.schem",
+   "badBlocks": [],
+   "ms": 217,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-130",
+   "title": "BigTree",
+   "category": "树木",
+   "dims": [
+    55,
+    46,
+    50
+   ],
+   "blocks": 14474,
+   "size": 10308,
+   "preview": "previews/ms-130.png",
+   "file": "schematics/ms-130.schem",
+   "badBlocks": [],
+   "ms": 1765,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-131",
+   "title": "BushTreeMini",
+   "category": "树木",
+   "dims": [
+    3,
+    9,
+    3
+   ],
+   "blocks": 35,
+   "size": 287,
+   "preview": "previews/ms-131.png",
+   "file": "schematics/ms-131.schem",
+   "badBlocks": [],
+   "ms": 24,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-132",
+   "title": "Cherry Enchanting Tree",
+   "category": "树木",
+   "dims": [
+    17,
+    14,
+    18
+   ],
+   "blocks": 934,
+   "size": 708,
+   "preview": "previews/ms-132.png",
+   "file": "schematics/ms-132.schem",
+   "badBlocks": [],
+   "ms": 129,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-133",
+   "title": "Cherry Portal Tree",
+   "category": "树木",
+   "dims": [
+    16,
+    11,
+    15
+   ],
+   "blocks": 484,
+   "size": 554,
+   "preview": "previews/ms-133.png",
+   "file": "schematics/ms-133.schem",
+   "badBlocks": [],
+   "ms": 100,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-134",
+   "title": "ChristmasTree",
+   "category": "树木",
+   "dims": [
+    14,
+    30,
+    14
+   ],
+   "blocks": 1307,
+   "size": 1298,
+   "preview": "previews/ms-134.png",
+   "file": "schematics/ms-134.schem",
+   "badBlocks": [
+    "iron_chain"
+   ],
+   "ms": 187,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-135",
+   "title": "ChristmasTreeSpruce",
+   "category": "树木",
+   "dims": [
+    14,
+    30,
+    14
+   ],
+   "blocks": 1307,
+   "size": 1154,
+   "preview": "previews/ms-135.png",
+   "file": "schematics/ms-135.schem",
+   "badBlocks": [
+    "iron_chain"
+   ],
+   "ms": 170,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-136",
+   "title": "Crimson Portal Tree",
+   "category": "树木",
+   "dims": [
+    16,
+    11,
+    15
+   ],
+   "blocks": 483,
+   "size": 575,
+   "preview": "previews/ms-136.png",
+   "file": "schematics/ms-136.schem",
+   "badBlocks": [],
+   "ms": 85,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-137",
+   "title": "GlassCherryTree",
+   "category": "树木",
+   "dims": [
+    34,
+    31,
+    36
+   ],
+   "blocks": 3037,
+   "size": 3457,
+   "preview": "previews/ms-137.png",
+   "file": "schematics/ms-137.schem",
+   "badBlocks": [],
+   "ms": 527,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-138",
+   "title": "JungleMangroveTree",
+   "category": "树木",
+   "dims": [
+    10,
+    18,
+    12
+   ],
+   "blocks": 212,
+   "size": 597,
+   "preview": "previews/ms-138.png",
+   "file": "schematics/ms-138.schem",
+   "badBlocks": [
+    "short_grass"
+   ],
+   "ms": 96,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-139",
+   "title": "JungleMangroveTreeMini",
+   "category": "树木",
+   "dims": [
+    8,
+    11,
+    4
+   ],
+   "blocks": 74,
+   "size": 412,
+   "preview": "previews/ms-139.png",
+   "file": "schematics/ms-139.schem",
+   "badBlocks": [
+    "short_grass"
+   ],
+   "ms": 37,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-140",
+   "title": "JungleTreeTall",
+   "category": "树木",
+   "dims": [
+    7,
+    26,
+    8
+   ],
+   "blocks": 162,
+   "size": 524,
+   "preview": "previews/ms-140.png",
+   "file": "schematics/ms-140.schem",
+   "badBlocks": [],
+   "ms": 66,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-141",
+   "title": "JungleTreeTallSmall",
+   "category": "树木",
+   "dims": [
+    5,
+    17,
+    5
+   ],
+   "blocks": 75,
+   "size": 412,
+   "preview": "previews/ms-141.png",
+   "file": "schematics/ms-141.schem",
+   "badBlocks": [],
+   "ms": 41,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-142",
+   "title": "OakTreeLarge",
+   "category": "树木",
+   "dims": [
+    30,
+    36,
+    38
+   ],
+   "blocks": 3530,
+   "size": 3702,
+   "preview": "previews/ms-142.png",
+   "file": "schematics/ms-142.schem",
+   "badBlocks": [
+    "firefly_bush",
+    "leaf_litter"
+   ],
+   "ms": 507,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-143",
+   "title": "PaleTree",
+   "category": "树木",
+   "dims": [
+    5,
+    17,
+    5
+   ],
+   "blocks": 67,
+   "size": 373,
+   "preview": "previews/ms-143.png",
+   "file": "schematics/ms-143.schem",
+   "badBlocks": [
+    "pale_oak_log"
+   ],
+   "ms": 34,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-144",
+   "title": "PaleTreeMedium",
+   "category": "树木",
+   "dims": [
+    5,
+    19,
+    5
+   ],
+   "blocks": 100,
+   "size": 422,
+   "preview": "previews/ms-144.png",
+   "file": "schematics/ms-144.schem",
+   "badBlocks": [
+    "pale_oak_log"
+   ],
+   "ms": 44,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-145",
+   "title": "PaleTreeTall",
+   "category": "树木",
+   "dims": [
+    8,
+    30,
+    7
+   ],
+   "blocks": 167,
+   "size": 533,
+   "preview": "previews/ms-145.png",
+   "file": "schematics/ms-145.schem",
+   "badBlocks": [
+    "pale_oak_log"
+   ],
+   "ms": 61,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-146",
+   "title": "Sptree1",
+   "category": "树木",
+   "dims": [
+    10,
+    34,
+    12
+   ],
+   "blocks": 300,
+   "size": 609,
+   "preview": "previews/ms-146.png",
+   "file": "schematics/ms-146.schem",
+   "badBlocks": [],
+   "ms": 104,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-147",
+   "title": "Sptree10",
+   "category": "树木",
+   "dims": [
+    9,
+    35,
+    9
+   ],
+   "blocks": 398,
+   "size": 726,
+   "preview": "previews/ms-147.png",
+   "file": "schematics/ms-147.schem",
+   "badBlocks": [],
+   "ms": 100,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-148",
+   "title": "Sptree11",
+   "category": "树木",
+   "dims": [
+    10,
+    22,
+    10
+   ],
+   "blocks": 254,
+   "size": 520,
+   "preview": "previews/ms-148.png",
+   "file": "schematics/ms-148.schem",
+   "badBlocks": [],
+   "ms": 75,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-149",
+   "title": "Sptree12",
+   "category": "树木",
+   "dims": [
+    11,
+    22,
+    10
+   ],
+   "blocks": 225,
+   "size": 521,
+   "preview": "previews/ms-149.png",
+   "file": "schematics/ms-149.schem",
+   "badBlocks": [],
+   "ms": 79,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-150",
+   "title": "Sptree13",
+   "category": "树木",
+   "dims": [
+    7,
+    20,
+    6
+   ],
+   "blocks": 144,
+   "size": 427,
+   "preview": "previews/ms-150.png",
+   "file": "schematics/ms-150.schem",
+   "badBlocks": [],
+   "ms": 53,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-151",
+   "title": "Sptree14",
+   "category": "树木",
+   "dims": [
+    6,
+    18,
+    6
+   ],
+   "blocks": 132,
+   "size": 400,
+   "preview": "previews/ms-151.png",
+   "file": "schematics/ms-151.schem",
+   "badBlocks": [],
+   "ms": 46,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-152",
+   "title": "Sptree15",
+   "category": "树木",
+   "dims": [
+    7,
+    21,
+    6
+   ],
+   "blocks": 153,
+   "size": 445,
+   "preview": "previews/ms-152.png",
+   "file": "schematics/ms-152.schem",
+   "badBlocks": [],
+   "ms": 49,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-153",
+   "title": "Sptree16",
+   "category": "树木",
+   "dims": [
+    6,
+    15,
+    7
+   ],
+   "blocks": 110,
+   "size": 399,
+   "preview": "previews/ms-153.png",
+   "file": "schematics/ms-153.schem",
+   "badBlocks": [],
+   "ms": 41,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-154",
+   "title": "Sptree17",
+   "category": "树木",
+   "dims": [
+    12,
+    34,
+    10
+   ],
+   "blocks": 384,
+   "size": 786,
+   "preview": "previews/ms-154.png",
+   "file": "schematics/ms-154.schem",
+   "badBlocks": [],
+   "ms": 99,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-155",
+   "title": "Sptree18",
+   "category": "树木",
+   "dims": [
+    10,
+    34,
+    9
+   ],
+   "blocks": 340,
+   "size": 714,
+   "preview": "previews/ms-155.png",
+   "file": "schematics/ms-155.schem",
+   "badBlocks": [],
+   "ms": 37,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-156",
+   "title": "Sptree19",
+   "category": "树木",
+   "dims": [
+    10,
+    21,
+    11
+   ],
+   "blocks": 214,
+   "size": 523,
+   "preview": "previews/ms-156.png",
+   "file": "schematics/ms-156.schem",
+   "badBlocks": [],
+   "ms": 37,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-157",
+   "title": "Sptree2",
+   "category": "树木",
+   "dims": [
+    9,
+    34,
+    10
+   ],
+   "blocks": 258,
+   "size": 548,
+   "preview": "previews/ms-157.png",
+   "file": "schematics/ms-157.schem",
+   "badBlocks": [],
+   "ms": 33,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-158",
+   "title": "Sptree20",
+   "category": "树木",
+   "dims": [
+    10,
+    21,
+    10
+   ],
+   "blocks": 220,
+   "size": 549,
+   "preview": "previews/ms-158.png",
+   "file": "schematics/ms-158.schem",
+   "badBlocks": [],
+   "ms": 25,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-159",
+   "title": "Sptree21",
+   "category": "树木",
+   "dims": [
+    6,
+    20,
+    7
+   ],
+   "blocks": 127,
+   "size": 428,
+   "preview": "previews/ms-159.png",
+   "file": "schematics/ms-159.schem",
+   "badBlocks": [],
+   "ms": 24,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-160",
+   "title": "Sptree22",
+   "category": "树木",
+   "dims": [
+    6,
+    17,
+    6
+   ],
+   "blocks": 114,
+   "size": 367,
+   "preview": "previews/ms-160.png",
+   "file": "schematics/ms-160.schem",
+   "badBlocks": [],
+   "ms": 16,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-161",
+   "title": "Sptree23",
+   "category": "树木",
+   "dims": [
+    6,
+    19,
+    7
+   ],
+   "blocks": 142,
+   "size": 428,
+   "preview": "previews/ms-161.png",
+   "file": "schematics/ms-161.schem",
+   "badBlocks": [],
+   "ms": 25,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-162",
+   "title": "Sptree24",
+   "category": "树木",
+   "dims": [
+    7,
+    14,
+    6
+   ],
+   "blocks": 99,
+   "size": 422,
+   "preview": "previews/ms-162.png",
+   "file": "schematics/ms-162.schem",
+   "badBlocks": [],
+   "ms": 24,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-163",
+   "title": "Sptree3",
+   "category": "树木",
+   "dims": [
+    10,
+    21,
+    10
+   ],
+   "blocks": 160,
+   "size": 416,
+   "preview": "previews/ms-163.png",
+   "file": "schematics/ms-163.schem",
+   "badBlocks": [],
+   "ms": 41,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-164",
+   "title": "Sptree4",
+   "category": "树木",
+   "dims": [
+    11,
+    21,
+    10
+   ],
+   "blocks": 145,
+   "size": 402,
+   "preview": "previews/ms-164.png",
+   "file": "schematics/ms-164.schem",
+   "badBlocks": [],
+   "ms": 41,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-165",
+   "title": "Sptree5",
+   "category": "树木",
+   "dims": [
+    7,
+    20,
+    6
+   ],
+   "blocks": 104,
+   "size": 361,
+   "preview": "previews/ms-165.png",
+   "file": "schematics/ms-165.schem",
+   "badBlocks": [],
+   "ms": 41,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-166",
+   "title": "Sptree6",
+   "category": "树木",
+   "dims": [
+    6,
+    17,
+    6
+   ],
+   "blocks": 89,
+   "size": 330,
+   "preview": "previews/ms-166.png",
+   "file": "schematics/ms-166.schem",
+   "badBlocks": [],
+   "ms": 41,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-167",
+   "title": "sptree25",
+   "category": "树木",
+   "dims": [
+    10,
+    24,
+    11
+   ],
+   "blocks": 294,
+   "size": 894,
+   "preview": "previews/ms-167.png",
+   "file": "schematics/ms-167.schem",
+   "badBlocks": [],
+   "ms": 112,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-168",
+   "title": "sptree26",
+   "category": "树木",
+   "dims": [
+    7,
+    16,
+    7
+   ],
+   "blocks": 107,
+   "size": 460,
+   "preview": "previews/ms-168.png",
+   "file": "schematics/ms-168.schem",
+   "badBlocks": [],
+   "ms": 54,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-169",
+   "title": "82x82 Monument Ring",
+   "category": "实用建筑",
+   "dims": [
+    82,
+    1,
+    82
+   ],
+   "blocks": 228,
+   "size": 454,
+   "preview": "previews/ms-169.png",
+   "file": "schematics/ms-169.schem",
+   "badBlocks": [],
+   "ms": 79,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-170",
+   "title": "MumboDiagonalTower",
+   "category": "实用建筑",
+   "dims": [
+    42,
+    73,
+    43
+   ],
+   "blocks": 5180,
+   "size": 3812,
+   "preview": "previews/ms-170.png",
+   "file": "schematics/ms-170.schem",
+   "badBlocks": [],
+   "ms": 1165,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-171",
+   "title": "MumboTower",
+   "category": "实用建筑",
+   "dims": [
+    46,
+    76,
+    15
+   ],
+   "blocks": 5994,
+   "size": 3199,
+   "preview": "previews/ms-171.png",
+   "file": "schematics/ms-171.schem",
+   "badBlocks": [],
+   "ms": 695,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-172",
+   "title": "Armorer",
+   "category": "村庄",
+   "dims": [
+    13,
+    8,
+    16
+   ],
+   "blocks": 617,
+   "size": 1081,
+   "preview": "previews/ms-172.png",
+   "file": "schematics/ms-172.schem",
+   "badBlocks": [],
+   "ms": 105,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-173",
+   "title": "Butcher",
+   "category": "村庄",
+   "dims": [
+    13,
+    14,
+    19
+   ],
+   "blocks": 1026,
+   "size": 1458,
+   "preview": "previews/ms-173.png",
+   "file": "schematics/ms-173.schem",
+   "badBlocks": [],
+   "ms": 136,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-174",
+   "title": "Cartographer",
+   "category": "村庄",
+   "dims": [
+    14,
+    16,
+    18
+   ],
+   "blocks": 1114,
+   "size": 1350,
+   "preview": "previews/ms-174.png",
+   "file": "schematics/ms-174.schem",
+   "badBlocks": [],
+   "ms": 149,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-175",
+   "title": "CircleMarket",
+   "category": "村庄",
+   "dims": [
+    7,
+    8,
+    7
+   ],
+   "blocks": 160,
+   "size": 437,
+   "preview": "previews/ms-175.png",
+   "file": "schematics/ms-175.schem",
+   "badBlocks": [
+    "minecraft/spruce_fence"
+   ],
+   "ms": 37,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-176",
+   "title": "Cleric",
+   "category": "村庄",
+   "dims": [
+    13,
+    20,
+    15
+   ],
+   "blocks": 977,
+   "size": 1285,
+   "preview": "previews/ms-176.png",
+   "file": "schematics/ms-176.schem",
+   "badBlocks": [],
+   "ms": 67,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-177",
+   "title": "ClockTower",
+   "category": "村庄",
+   "dims": [
+    9,
+    30,
+    9
+   ],
+   "blocks": 799,
+   "size": 824,
+   "preview": "previews/ms-177.png",
+   "file": "schematics/ms-177.schem",
+   "badBlocks": [],
+   "ms": 49,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-178",
+   "title": "Farmer",
+   "category": "村庄",
+   "dims": [
+    16,
+    23,
+    17
+   ],
+   "blocks": 1186,
+   "size": 1565,
+   "preview": "previews/ms-178.png",
+   "file": "schematics/ms-178.schem",
+   "badBlocks": [],
+   "ms": 74,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-179",
+   "title": "Fletcher",
+   "category": "村庄",
+   "dims": [
+    22,
+    12,
+    16
+   ],
+   "blocks": 1141,
+   "size": 1265,
+   "preview": "previews/ms-179.png",
+   "file": "schematics/ms-179.schem",
+   "badBlocks": [],
+   "ms": 79,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-180",
+   "title": "Leatherworker",
+   "category": "村庄",
+   "dims": [
+    13,
+    8,
+    13
+   ],
+   "blocks": 605,
+   "size": 902,
+   "preview": "previews/ms-180.png",
+   "file": "schematics/ms-180.schem",
+   "badBlocks": [],
+   "ms": 83,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-181",
+   "title": "Librarian",
+   "category": "村庄",
+   "dims": [
+    17,
+    25,
+    15
+   ],
+   "blocks": 1391,
+   "size": 1576,
+   "preview": "previews/ms-181.png",
+   "file": "schematics/ms-181.schem",
+   "badBlocks": [],
+   "ms": 162,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-182",
+   "title": "Nitwit",
+   "category": "村庄",
+   "dims": [
+    11,
+    8,
+    13
+   ],
+   "blocks": 530,
+   "size": 826,
+   "preview": "previews/ms-182.png",
+   "file": "schematics/ms-182.schem",
+   "badBlocks": [],
+   "ms": 83,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-183",
+   "title": "Sheperd",
+   "category": "村庄",
+   "dims": [
+    19,
+    10,
+    17
+   ],
+   "blocks": 988,
+   "size": 1138,
+   "preview": "previews/ms-183.png",
+   "file": "schematics/ms-183.schem",
+   "badBlocks": [],
+   "ms": 62,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-184",
+   "title": "Stonemason",
+   "category": "村庄",
+   "dims": [
+    14,
+    15,
+    20
+   ],
+   "blocks": 1098,
+   "size": 1434,
+   "preview": "previews/ms-184.png",
+   "file": "schematics/ms-184.schem",
+   "badBlocks": [],
+   "ms": 83,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-185",
+   "title": "Toolsmith",
+   "category": "村庄",
+   "dims": [
+    16,
+    10,
+    15
+   ],
+   "blocks": 780,
+   "size": 1203,
+   "preview": "previews/ms-185.png",
+   "file": "schematics/ms-185.schem",
+   "badBlocks": [],
+   "ms": 50,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-186",
+   "title": "Weaponsmith",
+   "category": "村庄",
+   "dims": [
+    13,
+    15,
+    15
+   ],
+   "blocks": 912,
+   "size": 1332,
+   "preview": "previews/ms-186.png",
+   "file": "schematics/ms-186.schem",
+   "badBlocks": [],
+   "ms": 95,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ms-188",
+   "title": "medievalclocktower",
+   "category": "村庄",
+   "dims": [
+    9,
+    30,
+    9
+   ],
+   "blocks": 819,
+   "size": 818,
+   "preview": "previews/ms-188.png",
+   "file": "schematics/ms-188.schem",
+   "badBlocks": [],
+   "ms": 108,
+   "source": "Mindstormman06/litematics"
+  },
+  {
+   "id": "ps-001",
+   "title": "UP的大别墅（城主府）",
+   "category": "建筑",
+   "dims": [
+    74,
+    57,
+    73
+   ],
+   "blocks": 48529,
+   "size": 11577,
+   "preview": "previews/ps-001.png",
+   "file": "schematics/ps-001.schem",
+   "badBlocks": [],
+   "ms": 2766,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-002",
+   "title": "哥特钟楼 光照优化.v",
+   "category": "建筑",
+   "dims": [
+    47,
+    128,
+    48
+   ],
+   "blocks": 42422,
+   "size": 11683,
+   "preview": "previews/ps-002.png",
+   "file": "schematics/ps-002.schem",
+   "badBlocks": [],
+   "ms": 2995,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-003",
+   "title": "圣诞小镇",
+   "category": "建筑",
+   "dims": [
+    128,
+    53,
+    93
+   ],
+   "blocks": 94522,
+   "size": 18638,
+   "preview": "previews/ps-003.png",
+   "file": "schematics/ps-003.schem",
+   "badBlocks": [],
+   "ms": 6064,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-005",
+   "title": "樱花小屋",
+   "category": "建筑",
+   "dims": [
+    19,
+    17,
+    22
+   ],
+   "blocks": 2725,
+   "size": 2867,
+   "preview": "previews/ps-005.png",
+   "file": "schematics/ps-005.schem",
+   "badBlocks": [],
+   "ms": 304,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-006",
+   "title": "白洲梓",
+   "category": "建筑",
+   "dims": [
+    17,
+    27,
+    22
+   ],
+   "blocks": 1561,
+   "size": 1630,
+   "preview": "previews/ps-006.png",
+   "file": "schematics/ps-006.schem",
+   "badBlocks": [],
+   "ms": 236,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-007",
+   "title": "神里屋敷(终)2",
+   "category": "建筑",
+   "dims": [
+    73,
+    23,
+    74
+   ],
+   "blocks": 12834,
+   "size": 6619,
+   "preview": "previews/ps-007.png",
+   "file": "schematics/ps-007.schem",
+   "badBlocks": [],
+   "ms": 1297,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-008",
+   "title": "粮仓",
+   "category": "建筑",
+   "dims": [
+    14,
+    12,
+    18
+   ],
+   "blocks": 940,
+   "size": 1095,
+   "preview": "previews/ps-008.png",
+   "file": "schematics/ps-008.schem",
+   "badBlocks": [],
+   "ms": 141,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-009",
+   "title": "阿山盔甲屋",
+   "category": "建筑",
+   "dims": [
+    21,
+    28,
+    31
+   ],
+   "blocks": 4679,
+   "size": 4295,
+   "preview": "previews/ps-009.png",
+   "file": "schematics/ps-009.schem",
+   "badBlocks": [
+    "short_grass"
+   ],
+   "ms": 429,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-010",
+   "title": "木屋",
+   "category": "房屋",
+   "dims": [
+    22,
+    22,
+    21
+   ],
+   "blocks": 2416,
+   "size": 1480,
+   "preview": "previews/ps-010.png",
+   "file": "schematics/ps-010.schem",
+   "badBlocks": [
+    "polished_tuff",
+    "tuff_bricks"
+   ],
+   "ms": 295,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-011",
+   "title": "樱花木屋",
+   "category": "房屋",
+   "dims": [
+    31,
+    25,
+    25
+   ],
+   "blocks": 7177,
+   "size": 3202,
+   "preview": "previews/ps-011.png",
+   "file": "schematics/ps-011.schem",
+   "badBlocks": [],
+   "ms": 413,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-013",
+   "title": "24矿车处死",
+   "category": "其他",
+   "dims": [
+    4,
+    4,
+    3
+   ],
+   "blocks": 18,
+   "size": 313,
+   "preview": "previews/ps-013.png",
+   "file": "schematics/ps-013.schem",
+   "badBlocks": [],
+   "ms": 25,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-014",
+   "title": "3gtBUD发生器",
+   "category": "其他",
+   "dims": [
+    2,
+    5,
+    4
+   ],
+   "blocks": 17,
+   "size": 310,
+   "preview": "previews/ps-014.png",
+   "file": "schematics/ps-014.schem",
+   "badBlocks": [],
+   "ms": 16,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-015",
+   "title": "3x3活塞门2.0",
+   "category": "其他",
+   "dims": [
+    7,
+    9,
+    7
+   ],
+   "blocks": 130,
+   "size": 455,
+   "preview": "previews/ps-015.png",
+   "file": "schematics/ps-015.schem",
+   "badBlocks": [],
+   "ms": 37,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-016",
+   "title": "Dustbin",
+   "category": "其他",
+   "dims": [
+    1,
+    8,
+    5
+   ],
+   "blocks": 20,
+   "size": 299,
+   "preview": "previews/ps-016.png",
+   "file": "schematics/ps-016.schem",
+   "badBlocks": [],
+   "ms": 16,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-017",
+   "title": "tnt复制阵列",
+   "category": "其他",
+   "dims": [
+    3,
+    6,
+    20
+   ],
+   "blocks": 128,
+   "size": 444,
+   "preview": "previews/ps-017.png",
+   "file": "schematics/ps-017.schem",
+   "badBlocks": [],
+   "ms": 45,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-018",
+   "title": "全效果信标",
+   "category": "其他",
+   "dims": [
+    10,
+    5,
+    11
+   ],
+   "blocks": 250,
+   "size": 250,
+   "preview": "previews/ps-018.png",
+   "file": "schematics/ps-018.schem",
+   "badBlocks": [],
+   "ms": 37,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-019",
+   "title": "刷铁机收集extra",
+   "category": "其他",
+   "dims": [
+    6,
+    5,
+    10
+   ],
+   "blocks": 94,
+   "size": 506,
+   "preview": "previews/ps-019.png",
+   "file": "schematics/ps-019.schem",
+   "badBlocks": [],
+   "ms": 37,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-020",
+   "title": "小黑处死",
+   "category": "其他",
+   "dims": [
+    2,
+    10,
+    3
+   ],
+   "blocks": 11,
+   "size": 275,
+   "preview": "previews/ps-020.png",
+   "file": "schematics/ps-020.schem",
+   "badBlocks": [],
+   "ms": 20,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-021",
+   "title": "屠龙炮",
+   "category": "其他",
+   "dims": [
+    3,
+    28,
+    8
+   ],
+   "blocks": 191,
+   "size": 438,
+   "preview": "previews/ps-021.png",
+   "file": "schematics/ps-021.schem",
+   "badBlocks": [],
+   "ms": 41,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-022",
+   "title": "工地用箱盒展示",
+   "category": "其他",
+   "dims": [
+    1,
+    6,
+    5
+   ],
+   "blocks": 19,
+   "size": 335,
+   "preview": "previews/ps-022.png",
+   "file": "schematics/ps-022.schem",
+   "badBlocks": [],
+   "ms": 20,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-023",
+   "title": "延迟时间可控防熊连点",
+   "category": "其他",
+   "dims": [
+    3,
+    3,
+    7
+   ],
+   "blocks": 26,
+   "size": 332,
+   "preview": "previews/ps-023.png",
+   "file": "schematics/ps-023.schem",
+   "badBlocks": [],
+   "ms": 21,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-024",
+   "title": "推动上限检测",
+   "category": "其他",
+   "dims": [
+    6,
+    4,
+    12
+   ],
+   "blocks": 160,
+   "size": 558,
+   "preview": "previews/ps-024.png",
+   "file": "schematics/ps-024.schem",
+   "badBlocks": [],
+   "ms": 58,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-025",
+   "title": "模电计时器 3x4x4",
+   "category": "其他",
+   "dims": [
+    3,
+    4,
+    4
+   ],
+   "blocks": 35,
+   "size": 368,
+   "preview": "previews/ps-025.png",
+   "file": "schematics/ps-025.schem",
+   "badBlocks": [],
+   "ms": 20,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-026",
+   "title": "浮空沙柱机",
+   "category": "其他",
+   "dims": [
+    3,
+    4,
+    4
+   ],
+   "blocks": 24,
+   "size": 298,
+   "preview": "previews/ps-026.png",
+   "file": "schematics/ps-026.schem",
+   "badBlocks": [],
+   "ms": 21,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-027",
+   "title": "猪肉、图腾、烟花拿取2",
+   "category": "其他",
+   "dims": [
+    7,
+    10,
+    8
+   ],
+   "blocks": 282,
+   "size": 541,
+   "preview": "previews/ps-027.png",
+   "file": "schematics/ps-027.schem",
+   "badBlocks": [],
+   "ms": 74,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-028",
+   "title": "给炮用的珍珠存存取",
+   "category": "其他",
+   "dims": [
+    9,
+    6,
+    1
+   ],
+   "blocks": 48,
+   "size": 431,
+   "preview": "previews/ps-028.png",
+   "file": "schematics/ps-028.schem",
+   "badBlocks": [],
+   "ms": 45,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-029",
+   "title": "输入一次减少一格信号",
+   "category": "其他",
+   "dims": [
+    7,
+    2,
+    4
+   ],
+   "blocks": 32,
+   "size": 360,
+   "preview": "previews/ps-029.png",
+   "file": "schematics/ps-029.schem",
+   "badBlocks": [],
+   "ms": 12,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-030",
+   "title": "输入一次延迟输出信号",
+   "category": "其他",
+   "dims": [
+    6,
+    2,
+    5
+   ],
+   "blocks": 55,
+   "size": 321,
+   "preview": "previews/ps-030.png",
+   "file": "schematics/ps-030.schem",
+   "badBlocks": [],
+   "ms": 16,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-031",
+   "title": "铁砧存储",
+   "category": "其他",
+   "dims": [
+    9,
+    16,
+    19
+   ],
+   "blocks": 842,
+   "size": 915,
+   "preview": "previews/ps-031.png",
+   "file": "schematics/ps-031.schem",
+   "badBlocks": [],
+   "ms": 141,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-032",
+   "title": "无用tnt",
+   "category": "趣味",
+   "dims": [
+    7,
+    11,
+    7
+   ],
+   "blocks": 117,
+   "size": 486,
+   "preview": "previews/ps-032.png",
+   "file": "schematics/ps-032.schem",
+   "badBlocks": [],
+   "ms": 57,
+   "source": "Piscescup/MC-Java-Schematics"
+  },
+  {
+   "id": "ps-033",
+   "title": "粉门",
+   "category": "趣味",
+   "dims": [
+    1,
+    3,
+    1
+   ],
+   "blocks": 3,
+   "size": 219,
+   "preview": "previews/ps-033.png",
+   "file": "schematics/ps-033.schem",
+   "badBlocks": [],
+   "ms": 8,
+   "source": "Piscescup/MC-Java-Schematics"
+  }
+ ]
+}
